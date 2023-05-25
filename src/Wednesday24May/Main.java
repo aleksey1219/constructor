@@ -1,3 +1,5 @@
+package Wednesday24May;
+
 public class Main {
     public static void main(String[] args) {
         Book book = new Book("Александр ", "Пушкин ", " Капитанская дочка ", 1700);
